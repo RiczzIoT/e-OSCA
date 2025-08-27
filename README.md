@@ -57,13 +57,13 @@ To get a local copy up and running, follow these simple steps.
 Here are some example views of the system. Replace the links with your own uploaded screenshots in the repository.
 
 ### Login Page
-![Login Page](https://github.com/RiczzIoT/e-OSCA/blob/main/screenshots/login.png)
+![Login Page](https://github.com/RiczzIoT/e-OSCA/blob/main/blob/main/screenshots/login.png)
 
 ### Dashboard
-![Dashboard](https://github.com/RiczzIoT/e-OSCA/blob/main/screenshots/dashboard.png)
+![Dashboard](https://github.com/RiczzIoT/e-OSCA/blob/main/blob/main/screenshots/dashboard.png)
 
 ### Senior Citizen ID
-![Senior Citizen ID](https://github.com/RiczzIoT/e-OSCA/blob/main/screenshots/id-card.png)
+![Senior Citizen ID](https://github.com/RiczzIoT/e-OSCA/blob/main/blob/main/screenshots/id-card.png)
 
 ---
 
